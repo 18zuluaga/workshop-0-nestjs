@@ -44,4 +44,13 @@ R// por que puede ser que el cliente no este cumpliendo el contarto y nos este i
 
 2.ii.¿Qué podría suceder si un decorador está mal colocado o si no se aplican los pipes correctamente?<br><br>
 
+R//pude tomar a otra clase o a otra funcion y nuestra enponit puede que no funcione correcta menete
+
+3.i.¿Cómo impacta el manejo adecuado de excepciones en la experiencia del usuario y en la seguridad de la aplicación?<br><br>
+
+R//permite enviar mensajes de error personalizados y comprensibles para el usuario, evitando respuestas genéricas o confusas.<br><br>
+
+3.ii.¿Por qué es importante tener un manejo centralizado de excepciones en una aplicación NestJS?<br><br>
+
+R//por qeu te puede garantizar un manejo de errores en toda tua pliccacion eb tambien por que puedes reutilizar codigo y no lo tiene que duplicar<br><br>
 
